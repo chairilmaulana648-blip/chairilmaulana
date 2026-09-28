@@ -1,13 +1,23 @@
-## A clean, beautiful and responsive portfolio template for Developers!
+## Hi, Welcome To My Repository My Name Is Chairil Maulana!
 
 <p align="center">
   <kbd>
-    <img width="400" height="225" alt="knight-of-the-abyss 960x540" src="https://github.com/user-attachments/assets/69fe9429-d4ac-4e02-aea7-d5d412ac163b"/>
+   <img width="500" height="325" alt="with-blue-sky 960x540" src="https://github.com/user-attachments/assets/7e529fab-c875-4622-96f9-ebb7577e9722" />
   </kbd>
 </p>
 
-Just change `src/portfolio.js` to get your personal portfolio. Customize portfolio theme by using your own color scheme globally in the  `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
+## Education
+<div align="center"
+  <p><b>MAHASISWA S1 TEKNIK INFORMATIKA</b></p>
+ <a href="https://universitasputrabangsa.ac.id/" terget="blank" align="center">
+  <img width="200" height="200" alt="Logo_Universitas_Putra_Bangsa_Kebumen" src="https://github.com/user-attachments/assets/044e9773-d7c3-438c-8ea2-c0c0924805d5" />
+  </a>
+  <p><b>UNIVERSITAS PUTRA BANGSA</b></p>
+</div>
 
-If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
+## Achievements
+✔️ Runner Up LKS Information Network Cabling
 
-Created something awesome for your fork of the portfolio and want to share it? Feel free to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
+## Skill
+✔️ Jaringan & Infrastruktur: Structured Cabling (UTP Cat5e/Cat6, Fiber Optic Splicing & Termination), LAN/WAN Setup, VLAN, Subnetting.
+✔️ Perangkat & Tools: Cisco Router, Switch & Mikrotik
