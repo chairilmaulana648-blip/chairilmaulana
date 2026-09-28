@@ -20,4 +20,5 @@
 
 ## Skill
 ✔️ Jaringan & Infrastruktur: Structured Cabling (UTP Cat5e/Cat6, Fiber Optic Splicing & Termination), LAN/WAN Setup, VLAN, Subnetting.
+
 ✔️ Perangkat & Tools: Cisco Router, Switch & Mikrotik
