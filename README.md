@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://ibb.co.com/7tR3RQHM](https://motionbgs.com/media/10121/knight-of-the-abyss.960x540.mp4"/>
+    <img width="400" height="225" alt="knight-of-the-abyss 960x540" src="https://github.com/user-attachments/assets/69fe9429-d4ac-4e02-aea7-d5d412ac163b"/>
   </kbd>
 </p>
 
