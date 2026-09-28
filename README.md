@@ -2,7 +2,8 @@
 
 <p align="center">
   <kbd>
-<img src="file:///C:/Users/ADVAN/Downloads/download.jpeg"></img>
+<img src="<img width="736" height="414" alt="download" src="https://github.com/user-attachments/assets/363d5d39-c4b0-45be-a9ed-a323d17df41d" />
+"></img>
   </kbd>
 </p>
 
